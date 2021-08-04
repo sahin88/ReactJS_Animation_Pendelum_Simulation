@@ -1,4 +1,4 @@
-# Create your own CV with ReactJS and Redux
+#ReactJS_Animation_Pendelum_Simulation
 
 ## App Info
 
