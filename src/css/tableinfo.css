@@ -1,0 +1,13 @@
+.form-group {
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+  margin: 15px;
+  border: 1px solid #ddd;
+  padding: 20px;
+  position: relative;
+}
+
+.buton {
+  padding: 5px;
+}
